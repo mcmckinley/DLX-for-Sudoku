@@ -1,8 +1,8 @@
-# DLX for Sudoku Solving - C++
+# DLX for Sudoku - C++
 
-**Author**: Michael McKinley
-**Course**: CSCI 411 - Final Project
-**Instructor**: Professor Richard Carter Tillquist
+**Author**: Michael McKinley<br>
+**Course**: CSCI 411 - Final Project<br>
+**Instructor**: Professor Richard Carter Tillquist<br>
 
 ## Description
 
